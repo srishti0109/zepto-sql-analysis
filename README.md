@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 This project focuses on analyzing Zepto product data using SQL.  
-The dataset contains product details such as product name, category, price, discount, stock availability, and ratings.
+The dataset contains product details such as product name, category, price, discount, stock availability, quantity, and product weight.
 
 The goal of this project is to perform:
 - Data cleaning
