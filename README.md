@@ -51,7 +51,7 @@ The goal of this project is to perform:
 
 ## 📂 Project Files
 - zepto_analysis.sql → Contains all SQL queries used in the project
-- zepto_dataset.csv → Dataset used for analysis
+- zepto_v2.csv → Dataset used for analysis
 - project_screenshot.png → Screenshot of SQL queries and outputs
 ---
 
