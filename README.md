@@ -46,6 +46,7 @@ The goal of this project is to perform:
 - Identifying high discount products
 - Product price analysis
 - Dataset exploration using SQL queries
+- Weight-based product analysis
 - Revenue analysis
 ---
 
@@ -53,6 +54,11 @@ The goal of this project is to perform:
 - zepto_analysis.sql → Contains all SQL queries used in the project
 - zepto_v2.csv → Dataset used for analysis
 - project_screenshot.png → Screenshot of SQL queries and outputs
+---
+
+## 📸 Project Screenshot
+
+![SQL Project](project_screenshot.png)
 ---
 
 ## 👩‍💻 Author
